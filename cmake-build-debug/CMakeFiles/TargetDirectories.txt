@@ -1,0 +1,3 @@
+D:/jono/project/GithubStudyRecord/NdkStudy/cmake-build-debug/CMakeFiles/NdkStudy.dir
+D:/jono/project/GithubStudyRecord/NdkStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/jono/project/GithubStudyRecord/NdkStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
